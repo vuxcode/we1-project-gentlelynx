@@ -1,8 +1,6 @@
 # Time Report
 
-> Write about what you have done and how long you have worked on each part of the project.
-
-For example: 
-
-- 2022-10-25 13:00 Worked for 1 hour.
-  - *List the things you have done.*
+- 2025-04-15 13:20 Worked for 2 hours.
+  - *Researched various web-sites for inspiration*
+  - *Read up on a bunch of stuff on W3*
+  - *Created initial mock-up*
