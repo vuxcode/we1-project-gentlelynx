@@ -10,8 +10,8 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 
 # Project Notes
 
-> You can use this section of the file to keep notes about your project as you work on it
-
+> 2025-04-15: Not particularly fond of the color scheme. Need to try some other options further into the project.
+ 
 # Project Summary
 
 > Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
