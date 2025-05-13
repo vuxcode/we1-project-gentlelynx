@@ -1,5 +1,8 @@
 # Time Report
 
+- 2025-05-13 worked for 4 hours.
+  - *Tweaked the layout and style*
+
 - 2025-03-31 to 2025-04-13
  Mostly very sick.
   - *Researched various web-sites for inspiration*
