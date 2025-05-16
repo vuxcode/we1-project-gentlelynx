@@ -1,8 +1,10 @@
 # Time Report
-Total time: 22h
+Total time: 30h
 
-- 2025-05-16 worked for 4 hours
+- 2025-05-16 worked for 8 hours
   - *Uploaded everything and tweaked style*
+  - *Fixed gradient bug*
+  - *Ran all pages through the validator*
 
 - 2025-05-15 worked for 6 hours
   - *Finalized css style*
