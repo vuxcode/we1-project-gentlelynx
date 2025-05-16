@@ -1,9 +1,10 @@
         html {
             font-family: "Share Tech Mono", monospace;
-            background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
+            background-color: #612b2e;
         }
         body {
-            background: transparent;
+            background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
+            margin: 0px;
         }
         main {
             margin: auto;
