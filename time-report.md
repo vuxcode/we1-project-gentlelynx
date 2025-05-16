@@ -1,4 +1,5 @@
 # Time Report
+Total time: 22h
 
 - 2025-05-16 worked for 4 hours
   - *Uploaded everything and tweaked style*
