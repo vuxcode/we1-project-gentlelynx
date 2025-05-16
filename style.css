@@ -3,7 +3,7 @@
             background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
         }
         body {
-            background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
+            background: transparent;
         }
         main {
             margin: auto;
