@@ -1,1 +1,75 @@
+html {
+            font-family: "Share Tech Mono", monospace;
+            background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
+            height: 100%;
+        }
+        body {
+            background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
+            height: 100%;
+        }
+        main {
+            margin: auto;
+            font-size: medium;
+            padding: 15px 15px 15px 25px;
+            width: 710px;
+            color: #57a9c9;
+            border-style: dotted;
+            border-radius: 6px;
+            background: linear-gradient(#061e27 70%, #093526);
+        }
+        main h1 {
+            color: #71bddc;
+        }
+        header {
+            margin: auto;
+            width: 800px;
+            height: 370px;
+        }
+        header figure {
+            margin: auto;
+            padding: 5px 15px 10px 25px;
+        }
+        a, a:active, a:visited {
+            text-decoration: none;
+            color: #8df4ff;
+        }
+        article a:hover {
+            color: rgb(47, 174, 102);            
+        }
+        nav {
+            font-size: small;
+            margin: auto;
+            padding: 10px 30px 20px 36px;
+        }
+        nav a {
+            background: linear-gradient(#061e27 70%, #093526);
+            text-decoration: none;
+            padding: 5px;
+            border-style: solid;
+            border-width: 2px;
+            border-radius: 4px;
+            border-color: #26708d;
+        }
+        nav a:hover {
+            color: rgb(47, 174, 102);
+        }
+        nav a:active, a:visited {
+            color: #8df4ff;
+        }
+        footer {
+            border-style: hidden;
+            border-color: #26708d;
+            margin: 20px auto;
+            padding: 10px;
+            width: 100px;
+            position: absolute;
 
+            bottom: 0px;
+        }
+        footer a {
+            margin: auto;
+            padding: 1px;
+        }
+        footer a:hover {
+            color: rgb(47, 174, 102);
+        }
