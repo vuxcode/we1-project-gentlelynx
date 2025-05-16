@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Silver Shelter</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        fieldset, input, textarea{
+            border-style: inset;
+            border-color: aqua;
+            background-color: transparent;
+            max-width: 600px;
+        }
+        fieldset {
+            margin: auto;
+        }
+        fieldset div {
+            margin: 20px;
+        }
+        textarea {
+            min-width: 600px;
+            min-height: 300px;
+            width: 600px;
+            height: 300px;
+            max-width: 600px;
+            max-height: 300px;
+        }
+        .submit {
+            margin: 20px 240px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <figure><img src="silvershelterbanner.jpg" alt="banner"></figure>
+        <nav>
+            <a href="https://gentlelynx.github.io/">Home</a>
+            <a href="https://gentlelynx.github.io/about">About</a>
+            <a href="https://gentlelynx.github.io/art">Art</a>
+            <a href="#">Avatars</a>
+            <b>Contact</b>
+            <a href="#">Comic</a>
+            <a href="#">D&D</a>
+            <a href="#">Gamedev</a>
+            <a href="#">Fibers</a>
+            <a href="#">Recipies</a>
+            <a href="#">Reviews</a>
+            <a href="#">Sitemap</a>
+        </nav>
+    </header>
+    <main>
+        <form action="" method="POST">
+        <fieldset>
+            <legend><b>Contact me!</b></legend>
+            <div>
+                <label for="email">Your e-mail:</label>
+                <input type="email" name="email" id="email">
+            </div>
+            <div>
+                <label for="message">Your message:</label>
+                <textarea name="message" id="message" rows="10"></textarea>
+            </div>
+        </fieldset>
+        <input type="submit" class="submit" value="Send">
+        </form>
+    </main>
+    <footer>
+        <a href="https://gentlelynx.github.io/">Take me back home!</a>
+    </footer>    
+</body>
+</html>
