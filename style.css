@@ -1,11 +1,9 @@
         html {
             font-family: "Share Tech Mono", monospace;
             background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
-            height: 100%;
         }
         body {
             background: linear-gradient(rgb(92, 188, 188), #0d3646 80%, #612b2e);
-            height: 100%;
         }
         main {
             margin: auto;
@@ -62,8 +60,7 @@
             margin: 20px auto;
             padding: 10px;
             width: 100px;
-            position: absolute;
-
+            position: bottom;
             bottom: 0px;
         }
         footer a {
