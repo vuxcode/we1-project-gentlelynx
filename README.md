@@ -14,4 +14,8 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
  
 # Project Summary
 
-> Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
+> Silver Shelter is a personal website developed for a client (*me*) during the course in webdevelopment. Visual design and colour scheme is inspired by old circuit boards. 
+> It was a rewarding experience to try an build a personal website, something that I wanted to do for a long time. I've learned a lot, and also improved upon my learning as I went deeper into the project. The hardest part was probably desiding on the theme, and also writing an about page. The most fun thing was to match the theme colour to the circuit board on the banner, and deciding on the type of contect to fill the pages with. 
+> I ended up doing an extra page (the recipes page) because it was so fun to add things. I probably would have filled everything from the nav bar given some extra time.
+> Things to be improved: Navigation (links that aren't leading anywhere), recipe page needs to have own navigation as well, also more responsive design (display on small screens, which would require to rework the banner), make the contact form work, and also just add more content, in general.
+> I did not manage to stick to the budget. I think I ended up working extra because I wanted to improve things so much. 
