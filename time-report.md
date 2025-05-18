@@ -1,9 +1,11 @@
 # Time Report
-Total time: 30h
+Total time: 32h
 
-- 2025-05-18 worked for 2 hours
+- 2025-05-18 worked for 4 hours
   - *Various improvements to the style sheet.*
   - *Fixed the embedded video that wasn't playing.*
+  - *Tested every page and every link*
+  - *Wrote project summary*
 
 - 2025-05-16 worked for 8 hours
   - *Uploaded everything and tweaked style*
