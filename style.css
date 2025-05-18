@@ -1,3 +1,7 @@
+        * {
+        margin: 0;
+        box-sizing: border-box;
+        }
         html {
             font-family: "Share Tech Mono", monospace;
             background-color: #612b2e;
@@ -9,7 +13,7 @@
         main {
             margin: auto;
             font-size: medium;
-            padding: 15px 15px 15px 25px;
+            padding: 35px 20px 20px 25px;
             width: 710px;
             color: #57a9c9;
             border-style: dotted;
@@ -56,13 +60,15 @@
             color: #8df4ff;
         }
         footer {
-            border-style: hidden;
-            border-color: #26708d;
+            border-style: solid;
+            border-color: #612b2e;
             margin: 20px auto;
             padding: 10px;
-            width: 100px;
+            width: 200px;
             position: bottom;
             bottom: 0px;
+            display: flex;
+            justify-content: center;
         }
         footer a {
             margin: auto;
