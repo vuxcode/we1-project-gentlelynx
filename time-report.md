@@ -1,6 +1,10 @@
 # Time Report
 Total time: 30h
 
+- 2025-05-18 worked for 2 hours
+  - *Various improvements to the style sheet.*
+  - *Fixed the embedded video that wasn't playing.*
+
 - 2025-05-16 worked for 8 hours
   - *Uploaded everything and tweaked style*
   - *Fixed gradient bug*
